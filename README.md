@@ -1,3 +1,3 @@
 # Smart-Queuing-System
 
-Project in progress
+Project is completed
